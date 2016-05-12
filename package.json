@@ -1,0 +1,41 @@
+{
+  "name": "aisle",
+  "version": "1.0.0",
+  "engines": {
+    "node": "*"
+  },
+  "description": "Module for global event handling and namespacing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/METACEO/nodejs-aisle.git"
+  },
+  "keywords": [
+    "aisle",
+    "events",
+    "global",
+    "globals",
+    "module",
+    "namespace",
+    "namespaces",
+    "namespacing"
+  ],
+  "author": {
+    "name": "James Allen",
+    "email": "com.npmjs@meta.ceo",
+    "url": "https://github.com/metaceo"
+  },
+  "contributors": [],
+  "license": "MIT",
+  "preferGlobal": false,
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "bugs": {
+    "url": "https://github.com/METACEO/nodejs-aisle/issues"
+  },
+  "homepage": "https://github.com/METACEO/nodejs-aisle#readme"
+}
