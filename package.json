@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/METACEO/nodejs-aisle.git"
+    "url": "git+https://github.com/METACEO/nodejs.aisle.git"
   },
   "keywords": [
     "aisle",
@@ -35,7 +35,7 @@
   "devDependencies": {},
   "optionalDependencies": {},
   "bugs": {
-    "url": "https://github.com/METACEO/nodejs-aisle/issues"
+    "url": "https://github.com/METACEO/nodejs.aisle/issues"
   },
-  "homepage": "https://github.com/METACEO/nodejs-aisle#readme"
+  "homepage": "https://github.com/METACEO/nodejs.aisle#readme"
 }
