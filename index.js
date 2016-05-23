@@ -8,10 +8,14 @@ var cache = {};
 */
 function AISLE(namespace,data){
   
+  // AISLE()
   if(namespace === undefined) return require.main.exports;
   
-  if(namespace !== undefined && data !== undefined) cache[namespace] = data;
+  // AISLE(namespace,data)
+  if(data !== undefined) cache[namespace] = data;
   
+  // AISLE(namespace)
+  // AISLE(namespace,data)
   if(cache[namespace] !== undefined) return cache[namespace];
   
   return undefined;
